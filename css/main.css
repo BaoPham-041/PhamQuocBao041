@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	height: 50px;
+	line-height: 50px;
+}
+.top-bar a
+{
+	color: white;
+}
+.top-bar a:hover
+{
+	color: #DB0205;
+}
+.navbar .navbar-nav .nav-item .nav-link
+{
+	padding: 10px 20px; border-radius: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover
+{
+	color:white ; background-color: #DB0205;
+}
+
+main
+{
+	min-height: 500px;
+}
+
+footer
+{
+	min-height: 200px;
+}
+.gachchan
+{
+	border-bottom: 2px solid  #FFF8F8;
+}
+footer .navbar-nav .nav-item .nav-link:hover
+{
+	color: white
+}
+
+#service a
+{
+	text-decoration: none; color: black;
+}
+#service a:hover
+{
+	color: #DB0205;
+}
+
+#why{
+	width: 100%; min-height: 850px;  background-image: url("../images/width1960 (13) (1).jpg"); background-repeat: no-repeat; background-size: cover; background-position: center center
+}
+
+#hinh h6 a
+{
+	text-decoration: none; color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
